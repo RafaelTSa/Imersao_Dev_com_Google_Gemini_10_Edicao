@@ -6,3 +6,7 @@ async function iniciarBusca() {
     dados = await resposta.json();
     renderizarCards(dados);
 }
+
+function renderizarCards(dados) {
+    for (let dado of dados)
+}
