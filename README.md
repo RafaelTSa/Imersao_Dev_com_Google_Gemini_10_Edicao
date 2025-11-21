@@ -29,3 +29,18 @@
 # Integrar o JavaScript ao HTML e entender os conceitos de funções assíncronas (async/await) e requisições (fetch).
 
 # Utilizar o Gemini Code Assist para gerar e complementar dados na sua Base de Conhecimento de forma rápida e eficiente.
+
+
+
+
+# Aula 03: Nesta aula, você vai aprender a manipular o DOM (Document Object Model) com JavaScript para exibir dinamicamente os dados da sua Base de Conhecimento na página. É o momento de transformar o código de desenvolvimento em uma aplicação funcional e visualmente atraente.
+
+# Aprender a selecionar elementos do HTML no JavaScript usando o document.querySelector().
+
+# Criar uma função para renderizar cards na tela, tirando os dados do console.
+
+# Dominar o conceito de laços de repetição (for...of) para iterar sobre a lista de dados JSON.
+
+# Utilizar o JavaScript para criar elementos HTML dinamicamente (document.createElement()) e adicionar estilos.
+
+# Personalizar o visual da sua aplicação, incluindo a alteração da fonte via CSS.
