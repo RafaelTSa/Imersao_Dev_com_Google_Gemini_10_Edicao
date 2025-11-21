@@ -12,10 +12,10 @@ function renderizarCards(dados) {
         let article = document.createElement("article");
         article.classList.add("card");
         article.innerHTML = `
-        <h2>JavaScript</h2>
-        <p>1995</p>
-        <p>JavaScript é uma linguagem de programação</p>
-        <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">Saiba mais</a>    
+        <h2>${dado.nome}</h2>
+        <p>${dado.ano}</p>
+        <p>${dado.descrição}</p>
+        <a href="${dado.link}" target="_blank">Saiba mais</a>
         `;
         cardContainer.appendChild(article);
     }
