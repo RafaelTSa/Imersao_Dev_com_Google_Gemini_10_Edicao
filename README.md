@@ -44,3 +44,17 @@
 # Utilizar o JavaScript para criar elementos HTML dinamicamente (document.createElement()) e adicionar estilos.
 
 # Personalizar o visual da sua aplicação, incluindo a alteração da fonte via CSS.
+
+
+
+# Aula 04: Nesta aula, você vai aprender a colocar sua Base de Conhecimento no ar, deixar o projeto público para qualquer pessoa acessar e ampliá-lo automaticamente utilizando um projeto em Node.js integrado ao Google Gemini.
+
+# Hospedar seu projeto no GitHub.
+
+# Aprender a subir arquivos, versionar código e gerar o link oficial da sua aplicação.
+
+# Instalar o Node.js e executar um projeto externo para expandir automaticamente sua Base de Conhecimento usando IA.
+
+# Entender como editar projetos criados por outras pessoas: uma habilidade essencial de qualquer desenvolvedor.
+
+# Ajustar e conectar os dados gerados pelo Node ao seu site em HTML, CSS e JavaScript.
